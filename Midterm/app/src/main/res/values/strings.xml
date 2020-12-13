@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Users</string>
+    <string name="btnFilter">Filter</string>
+    <string name="btnSort">Sort</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="state">State</string>
+    <string name="titleUser">Users</string>
+    <string name="titleFilter">Filter By State</string>
+    <string name="titleSort">Sort</string>
+</resources>
